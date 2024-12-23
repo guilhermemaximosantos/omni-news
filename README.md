@@ -1,2 +1,2 @@
 # omni-news
-Conteúdos para quem é entusiata de SaaS, Tecnologia, Web3.
+Conteúdos para quem é entusiasta de SaaS, Tecnologia, Web3.
